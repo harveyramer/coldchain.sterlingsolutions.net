@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Unlock perishable food chain value with our supply chain expertise
+title: Unlock perishable food chain value with supply chain expertise
 postsHeading: Latest articles
 archiveButtonText: See all articles
 metaDesc: 'Sterling Soutions is a supply chain consulting firm with the experience and expertise to help you unlock supply chain potential.'
