@@ -1,0 +1,45 @@
+.intro {
+  position: relative;
+  background: rgba(241, 223, 167, 0.8);
+  border-top: 1px solid var(--color-theme-primary);
+  button {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  &__summary {
+    --flow-space: #{get-size(500)};
+    font-size: get-size(500);
+
+    a {
+      color: currentColor;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+
+  &__heading {
+    max-width: 100%;
+    color: var(--color-theme-feature-text);
+
+    &--compact {
+      max-width: 100%;
+    }
+  }
+  &::before {
+    content: '';
+    background: url('/images/warehouse-optimized.jpg'); /* Attribution: https://upload.wikimedia.org/wikipedia/commons/6/61/Allentown_Project_042.jpg */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+  }
+}

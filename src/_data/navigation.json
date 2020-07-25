@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Home",
+      "url": "/",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
+    {
+      "text": "Testimonials",
+      "url": "/testimonials",
+      "external": false
+    },
+    {
+      "text": "Get in touch",
+      "url": "/contact",
+      "external": false
+    }
+  ]
+}

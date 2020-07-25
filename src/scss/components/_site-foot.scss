@@ -1,0 +1,16 @@
+.site-foot {
+  background: var(--color-primary);
+  color: var(--color-footer-text);
+
+  a {
+    color: currentColor;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  &__credit {
+    text-align: center;
+  }
+}

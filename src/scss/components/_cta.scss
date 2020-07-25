@@ -1,0 +1,10 @@
+.cta {
+  color: var(--color-text);
+  text-align: center;
+  button {
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: var(--color-theme-highlight-shade);
+    color: var(--color-text);
+  }
+}
