@@ -19,7 +19,7 @@ Nick’s industry and senior management experience with Kraft and Nestle provide
 
 ## What we do
 
-With decades of experience in supply chain consulting, we enable you to clarify and conquer your supply chain challenges.
+With decades of experience in supply chain consulting, we enable you to clarify and conquer your cold chain challenges.
 
 ## How we help
 
