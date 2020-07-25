@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Unlock your supply chain potential with our expertise
+title: Unlock perishable food chain value with our supply chain expertise
 postsHeading: Latest articles
 archiveButtonText: See all articles
 metaDesc: 'Sterling Soutions is a supply chain consulting firm with the experience and expertise to help you unlock supply chain potential.'
@@ -9,4 +9,4 @@ introctalink: '/contact'
 introctatext: 'Get our help'
 ---
 
-Sterling Solutions is a supply chain consulting firm with the experience and expertise to help you clarify and conquer your supply chain challenges.
+Sterling Solutions is a supply chain management consulting firm with a focus on the cold chain. We combine a supply chain management focus with the understanding of food science to maximize product quality while minimizing cost. Sterling’s specialized knowledge of perishable food logistics has been honed through more than 20 years with dozens of clients.
