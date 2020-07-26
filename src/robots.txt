@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coldchain.sterlingsolutions.net/sitemap.xml
