@@ -5,6 +5,7 @@ tags:
   - supply chain
   - strategy
   - article
+socialImage: /images/cold-storage-optimized.jpg
 ---
 
 For the last several years, food shippers and distributors have moved toward a general trend of faster response and more customized distribution capabilities. This has impacted distribution all along the cold chain from the supplier to the retailer. Issues contributing to this sea change include:
