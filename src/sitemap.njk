@@ -7,9 +7,9 @@ sitemapIgnore: true
   {%- for item in collections.all %}
     {%- if item.data.sitemapIgnore !== true %}
       <url>
-        <loc>{{ item.url }}</loc>
+        <loc>{{ site.url + item.url }}</loc>
         {% if item.date -%}
-          <lastmod>{{ item.date }}</lastmod>
+          <lastmod>{{ item.date | w3DateFilter }}</lastmod>
         {%- endif %}
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
