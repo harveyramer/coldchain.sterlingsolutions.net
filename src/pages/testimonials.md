@@ -13,11 +13,11 @@ ctatext: 'Get our help'
 **Ramin Ghaffari**, _SVP of Operations & Logistics_  
 [Wells Enterprises (Blue Bunny Ice Cream)](https://wellsenterprisesinc.com/)
 
-"Sterling Solutions developed an improvement strategy for our delivery service and costs.  They provided highly expert services in understanding our needs and those of our customers.  Their industry knowledge and experience realized sizable savings while increasing margin. They are extremely responsive. I have utilized their services numerous times and would use them on future projects."  
+"We have worked with the Sterling team since 1998 on multiple logistics projects.  They have helped us maintain cold chain integrity throughout our supply chain, in ensuring product quality and saving significant dollars in waste. They are easy to work with, flexible and have a high degree of integrity.  We have been completely satisfied with the work completed."  
 **Jim Crawford**, _Director of Supply Chain_  
 [Wawa, Inc.](https://www.wawa.com/)
 
-"We have worked with the Sterling team since 1998 on multiple logistics projects.  They have helped us maintain cold chain integrity throughout our supply chain, in ensuring product quality and saving significant dollars in waste. They are easy to work with, flexible and have a high degree of integrity.  We have been completely satisfied with the work completed."  
+"Sterling Solutions developed an improvement strategy for our delivery service and costs.  They provided highly expert services in understanding our needs and those of our customers.  Their industry knowledge and experience realized sizable savings while increasing margin. They are extremely responsive. I have utilized their services numerous times and would use them on future projects."  
 **Mike Hanson**, _Vice President_  
 [Hoffmaster Group, Inc.](https://hoffmastergroupinc.com/)
 
