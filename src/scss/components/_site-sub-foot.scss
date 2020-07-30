@@ -1,0 +1,15 @@
+.site-sub-foot {
+  background: var(--color-bg-primary);
+
+  a {
+    color: currentColor;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  &__credit {
+    text-align: center;
+  }
+}
