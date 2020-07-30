@@ -21,10 +21,97 @@
     {% include "partials/components/intro.njk" %}
     {% include "partials/components/post-list.njk" %}
     {% include "partials/components/pagination.njk" %}
-    {# <footer class="[ post__footer ] [ pad-top-700 pad-bottom-700 ]">
+    <footer class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
       <div class="inner-wrapper">
-        test
+        <div class="[ align-center ]">
+          <!-- Begin Mailchimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+          <style type="text/css">
+            #mc_embed_signup {
+              background: transparent;
+              clear: left;
+              font: inherit;
+            }
+            #mc_embed_signup form {
+              padding: 0;
+            }
+            #mc_embed_signup h2 {
+              font-size: 2.44rem;
+            }
+
+            #mc_embed_signup .button {
+              height: auto;
+              display: inline-block;
+              border: none;
+              border-radius: 0.3em;
+              background-color: var(--color-action-bg);
+              color: var(--color-action-text);
+              padding: 0.8rem 1rem;
+              line-height: 1;
+              margin: 0;
+              text-decoration: none;
+              cursor: pointer;
+              -webkit-appearance: none;
+              -moz-appearance: none;
+            }
+
+            #mc_embed_signup .button:focus,
+            #mc_embed_signup .button:hover {
+              filter: brightness(1.05);
+              background-color: var(--color-action-bg);
+              color: var(--color-action-text);
+            }
+
+            #mc_embed_signup .indicates-required {
+              font-size: inherit;
+            }
+            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+          </style>
+          <div id="mc_embed_signup">
+            <form action="https://sterlingsolutions.us17.list-manage.com/subscribe/post?u=a6cb9fcac6e10f9e8f317be09&amp;id=c55d4a281f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+              <div id="mc_embed_signup_scroll">
+                <h3>Let us keep you up-to-date</h3>
+                <p>Join other professionals connected with Sterling Solutions. Stay as long as you'd like. Unsubscribe anytime.</p>
+                <div class="indicates-required">
+                  <span class="asterisk">*</span>
+                  indicates required</div>
+                <div class="mc-field-group">
+                  <label for="mce-EMAIL">Email Address
+                    <span class="asterisk">*</span>
+                  </label>
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                </div>
+                <div class="mc-field-group input-group">
+                  <strong>Interests
+                  </strong>
+                  <ul>
+                    <li><input type="checkbox" value="1" name="group[10808][1]" id="mce-group[10808]-10808-0">
+                      <label for="mce-group[10808]-10808-0">Cold Chain</label>
+                    </li>
+                    <li><input type="checkbox" value="2" name="group[10808][2]" id="mce-group[10808]-10808-1">
+                      <label for="mce-group[10808]-10808-1">Supply Chain</label>
+                    </li>
+                  </ul>
+                </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a6cb9fcac6e10f9e8f317be09_c55d4a281f" tabindex="-1" value=""></div>
+                <div class="clear">
+                  <button type="submit" name="subscribe" class="[ button ] [ font-base text-600 weight-normal ]">
+                    Keep me up-to-date!
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+
+          <!--End mc_embed_signup-->
+        </div>
       </div>
-    </footer> #}
+    </footer>
   </main>
 {% endblock %}
