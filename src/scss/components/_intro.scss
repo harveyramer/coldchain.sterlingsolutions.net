@@ -44,4 +44,9 @@
     position: absolute;
     z-index: -1;
   }
+  &.fullHeight {
+    height: calc(100vh - 140px);
+    display: flex;
+    align-items: center;
+  }
 }

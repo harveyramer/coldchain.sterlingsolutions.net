@@ -1,13 +1,22 @@
-<header class="[ intro ] [ pad-top-800 pad-bottom-900 ]">
-  <div class="[ inner-wrapper ] [ sf-flow ]">
-    <h1 class="[ intro__heading{{ ' intro__heading--compact' if page.url === '/' }} ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
-    {% if introSummary %}
-      <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
-    {% endif %}
-    {% if introctalink %}
-      <div class="[ pad-top-700 ]">
-        <button class="[ button ] [ font-base text-600 weight-normal ]" onclick="location.href = '{{introctalink}}'">{{introctatext}}</button>
+{% if introSummary %}
+  <header class="[ intro ] [ pad-top-800 pad-bottom-900 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <div>
+        <h1 class="[ intro__heading ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
+        <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ] [ pad-top-500 ]">{{ introSummary | safe }}</div>
+        {% if introctalink %}
+          <div class="[ pad-top-700 ]">
+            <button class="[ button ] [ font-base text-600 weight-normal ]" onclick="location.href = '{{introctalink}}'">{{introctatext}}</button>
+          </div>
+        {% endif %}
       </div>
-    {% endif %}
-  </div>
-</header>
+    </div>
+  </header>
+{% endif %}
+{% if not introSummary %}
+  <header class="[ intro ] [ pad-top-800 pad-bottom-900 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <h1 class="[ intro__heading ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
+    </div>
+  </header>
+{% endif %}

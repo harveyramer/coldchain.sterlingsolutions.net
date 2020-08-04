@@ -1,10 +1,13 @@
 {% if postListItems.length %}
-  <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+  <section class="[ post-list ] [ gap-top-900 pad-top-900 gap-bottom-900 pad-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
       <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
-      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed="reversed">
         {% for item in postListItems %}
-          {% if item.date.getTime() <= global.now %}
+          {% if item
+            .date
+            .getTime() <= global
+            .now %}
             <li class="post-list__item">
               <h3 class="font-base leading-tight text-600 weight-mid">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
