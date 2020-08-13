@@ -3,9 +3,9 @@ layout: home
 title: Unlock perishable food chain value with supply chain expertise
 postsHeading: Latest articles
 archiveButtonText: See all articles
-metaTitle: Cold Chain Conultancy - Sterling Solutions
-metaDesc: 'Sterling Soutions is a supply chain consulting firm with the experience and expertise to help you unlock supply chain potential.'
-socialImage: ''
+metaTitle: Cold Chain Consultancy - Sterling Solutions
+metaDesc: 'Sterling Solutions is a supply chain consulting firm with the experience and expertise to help you unlock supply chain potential.'
+socialImage: '/images/cold-storage-optimized.jpg'
 introctalink: '/contact'
 introctatext: 'Get our help'
 ---
