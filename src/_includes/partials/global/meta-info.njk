@@ -14,8 +14,9 @@
 {% endif %}
 
 <title>{{ pageTitle }}</title>
-{% if canonicalUrl %}{% endif %}
-<link rel="canonical" href="{{ canonicalUrl }}"/>
+{% if canonicalUrl %}
+  <link rel="canonical" href="{{ canonicalUrl }}"/>
+{% endif %}
 {% if not canonicalUrl %}
   <link rel="canonical" href="{{ currentUrl }}"/>
 {% endif %}
