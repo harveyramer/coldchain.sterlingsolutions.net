@@ -1,5 +1,6 @@
 ---
-title: 'Cold Chain Consultants in Memphis, TN'
+title: About
+metaTitle: 'Cold Chain Consultants in Memphis, TN'
 permalink: '/about/index.html'
 ctalink: '/contact'
 ctatext: 'Get our help'
