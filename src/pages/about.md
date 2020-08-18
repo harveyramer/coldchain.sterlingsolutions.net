@@ -4,6 +4,7 @@ metaTitle: 'Cold Chain Consultants in Memphis, TN'
 permalink: '/about/index.html'
 ctalink: '/contact'
 ctatext: 'Get our help'
+canonicalUrl: https://www.sterlingsolutions.net/about/
 ---
 
 ## Who we are
