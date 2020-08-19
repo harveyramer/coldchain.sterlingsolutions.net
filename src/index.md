@@ -3,7 +3,7 @@ layout: home
 title: Unlock perishable food chain value with supply chain expertise
 postsHeading: Latest articles
 archiveButtonText: See all articles
-metaTitle: Cold Chain Consultancy - Sterling Solutions
+metaTitle: 'Sterling Solutions: a Memphis Cold Chain Consultancy'
 metaDesc: 'Sterling Solutions is a cold chain consulting firm. We unlock perishable food chain value with supply chain expertise'
 socialImage: '/images/cold-storage-optimized.jpg'
 introctalink: '/contact'
