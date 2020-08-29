@@ -10,7 +10,7 @@ authorName: David Sterling
 metaDesc: For the last several years, food shippers and distributors have moved toward a general trend of faster response and more customized distribution capabilities.
 ---
 
-For years, food shippers and distributors have moved toward a faster and more flexible distribution model. Distribution all along the cold chain from the supplier to the retailer is adapting to this change. Issues contributing to this sea change include:
+For the last several years, food shippers and distributors have moved toward a faster and more flexible distribution model. Distribution all along the cold chain from the supplier to the retailer is adapting to this change. Issues contributing to this sea change include:
 
 - Demand for fresh food offers as well as fresh produce availability all twelve months of the year
 - Convenience for dual-income households and millennials who shop online for fresh food, frozen food, and meal kits
