@@ -7,22 +7,22 @@
     },
     {
       "text": "About",
-      "url": "/about",
+      "url": "/about/",
       "external": false
     },
     {
       "text": "Testimonials",
-      "url": "/testimonials",
+      "url": "/testimonials/",
       "external": false
     },
     {
       "text": "Supply Chain",
-      "url": "https://www.sterlingsolutions.net",
+      "url": "https://www.sterlingsolutions.net/",
       "external": true
     },
     {
       "text": "Get in touch",
-      "url": "/contact",
+      "url": "/contact/",
       "external": false
     }
   ]
