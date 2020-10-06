@@ -10,7 +10,7 @@ authorName: David Sterling
 metaDesc: The cold storage industry is at record demand levels, and many companies are using public cold storage facilities. Since cost is always an important factor, we must understand how we set cold storage pricing.
 ---
 
-The cold storage industry is at record demand levels. In 2019, the global food cold storage and cold chain market were valued at just over $149 billion. By 2024, that figure will almost double to $275 billion. On the Pharma side, cold chain drugs will grow by 59% from 2017 to 2023. That, too, is resulting in new demand for a more specialized cold chain.
+The cold storage industry is at record demand levels. In 2019, the global food cold storage and cold chain market were valued at just over $149 billion. By 2024, that figure will [almost double](https://pharmaceuticalcommerce.com/cold-chain-focus/pharma-cold-chain-greener-and-more-digitized/) to $275 billion. On the Pharma side, cold chain drugs will [grow by 59%](https://www.thomasnet.com/insights/cold-storage-services-see-sustained-spike-as-preparations-begin-for-future-covid-19-vaccine-transport/) from 2017 to 2023. That, too, is resulting in new demand for a more specialized cold chain.
 
 With this increased demand for cold storage, many companies may use public cold storage facilities for the first time or much more often. Since the cost of cold storage services is always an important component, we must understand how we set cold storage pricing.
 
