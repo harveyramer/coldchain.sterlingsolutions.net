@@ -18,7 +18,29 @@
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
+
+        <!-- AddToAny BEGIN -->
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+          <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+          <a class="a2a_button_linkedin"></a>
+          <a class="a2a_button_facebook"></a>
+          <a class="a2a_button_twitter"></a>
+          <a class="a2a_button_email"></a>
+        </div>
+        <!-- AddToAny END -->
+
         {{ content | safe }}
+
+        <!-- AddToAny BEGIN -->
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+          <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+          <a class="a2a_button_linkedin"></a>
+          <a class="a2a_button_facebook"></a>
+          <a class="a2a_button_twitter"></a>
+          <a class="a2a_button_email"></a>
+        </div>
+        <script async="async" src="https://static.addtoany.com/menu/page.js"></script>
+        <!-- AddToAny END -->
       </div>
       {% if site.enableThirdPartyComments %}
         <hr/>
