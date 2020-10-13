@@ -1,12 +1,15 @@
 {% if introSummary %}
-  <header class="[ intro ] [ pad-top-800 pad-bottom-900 ]">
+  <header class="[ intro ] [ pad-top-max pad-bottom-max ]">
     <div class="[ wrapper ] [ sf-flow ]">
       <div>
         <h1 class="[ intro__heading ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
         <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ] [ pad-top-500 ]">{{ introSummary | safe }}</div>
-        {% if introctalink %}
+        {% if introCTALink %}
           <div class="[ pad-top-700 ]">
-            <button class="[ button ] [ font-base text-600 weight-normal ]" onclick="location.href = '{{introctalink}}'">{{introctatext}}</button>
+            <button class="[ button ] [ font-base text-600 weight-normal ]" onclick="location.href = '{{introCTALink}}'">{{introCTAText}}</button>
+            <span class="[ pad-left-300 ]">or see our
+              <a class="[ color-primary ]" href="{{intro2ndLink}}">{{intro2ndText}}</a>
+            </span>
           </div>
         {% endif %}
       </div>
