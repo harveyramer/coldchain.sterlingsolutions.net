@@ -1,5 +1,6 @@
 ---
 title: 'Testimonials'
+metaDesc: 'Learn about our cold chain consultancy from our customers.'
 permalink: '/testimonials/index.html'
 ctalink: '/contact'
 ctatext: 'Get our help'

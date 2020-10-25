@@ -1,6 +1,7 @@
 ---
 title: About
 metaTitle: 'Cold Chain Consultants in Memphis, TN'
+metaDesc: 'We are a supply chain consultancy specializing in the perishable food chain.'
 permalink: '/about/index.html'
 ctalink: '/contact'
 ctatext: 'Get our help'
@@ -15,7 +16,7 @@ canonicalUrl: https://www.sterlingsolutions.net/about/
 
 ### Nick Pacitti
 
-<img src="/images/nickpacitti.jpg" alt='David Sterling' style="width:200px;float:left; margin: 1rem 2rem 1rem 0;" /> Nick Pacitti, a partner with Sterling Solutions, is responsible for project management and improvement initiatives in its food safety and logistics practice. As a seasoned Supply Chain Executive, Nick has over 25 years of extensive experience in designing, developing and delivering logistics improvement strategies and solutions. His experience and strengths include distribution network design through balancing manufacturing, warehousing and transportation strategies and technologies in optimizing assets while improving service and cost performance.
+<img src="/images/nickpacitti.jpg" alt='Nick Pacitti' style="width:200px;float:left; margin: 1rem 2rem 1rem 0;" /> Nick Pacitti, a partner with Sterling Solutions, is responsible for project management and improvement initiatives in its food safety and logistics practice. As a seasoned Supply Chain Executive, Nick has over 25 years of extensive experience in designing, developing and delivering logistics improvement strategies and solutions. His experience and strengths include distribution network design through balancing manufacturing, warehousing and transportation strategies and technologies in optimizing assets while improving service and cost performance.
 
 Nick’s industry and senior management experience with Kraft and Nestle provides a true practitioner’s perspective in executing operations improvement and revenue enhancement initiatives. During his tenure with Kraft and Nestle, Nick was selected as a management development instructor teaching mid and senior level managers throughout the world.
 
