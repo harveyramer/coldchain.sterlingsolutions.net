@@ -5,7 +5,7 @@ tags:
   - supply chain
   - perishable food
   - article
-socialImage: /images/cold-storage-optimized.jpg
+socialImage: /images/grocery-delivery.jpg
 authorName: David Sterling
 metaDesc: For the last several years, food shippers and distributors have moved toward a faster and more flexible distribution model that includes e-commerce enabled direct-to-consumer food offerings.
 ---
