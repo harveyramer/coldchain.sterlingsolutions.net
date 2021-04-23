@@ -2,7 +2,7 @@
 title: 2021 Food and Beverage Consumer Market Trends
 date: '2021-04-17'
 tags:
-  - supply chain
+  - cold chain
   - perishable food
   - article
 socialImage: /images/grocery-delivery.jpg
